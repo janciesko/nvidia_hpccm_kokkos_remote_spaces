@@ -1,5 +1,5 @@
 ## Using Kokkos with NVIDIA's HPCCM and Docker
-This repository contains a set of bash scripts that showcase the use of the HPCCM container recipe generator with Kokkos.
+This repository contains a set of bash scripts that showcase the deployment of Kokkos using the HPCCM container recipe generator and Docker.
 
 ## Usage
 
